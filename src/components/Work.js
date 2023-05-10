@@ -14,7 +14,9 @@ const Work = () => {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/* Card Container */}
           <div
-            // style={{ backgroundImage: `url(${item.image})` }}
+            style={{
+              backgroundImage: `url(${"https://i.pinimg.com/564x/f5/58/0e/f5580e9911bf1422813176182af2d359.jpg"})`,
+            }}
             className="shadow-lg shadow-[#040c16] group container rounded-md 
               flex justify-center text-center items-center mx-auto content-div "
           >
@@ -45,7 +47,9 @@ const Work = () => {
           </div>
 
           <div
-            // style={{ backgroundImage: `url(${item.image})` }}
+            style={{
+              backgroundImage: `url(${"https://i.pinimg.com/564x/b7/c6/ed/b7c6ed8c46582df42a407462e4e68baa.jpg"})`,
+            }}
             className="shadow-lg shadow-[#040c16] group container rounded-md 
               flex justify-center text-center items-center mx-auto content-div "
           >
@@ -76,7 +80,9 @@ const Work = () => {
           </div>
 
           <div
-            // style={{ backgroundImage: `url(${item.image})` }}
+            style={{
+              backgroundImage: `url(${"https://i.pinimg.com/564x/8d/82/d8/8d82d830aa82beff63163e4c35c7ebba.jpg"})`,
+            }}
             className="shadow-lg shadow-[#040c16] group container rounded-md 
               flex justify-center text-center items-center mx-auto content-div "
           >
@@ -107,7 +113,9 @@ const Work = () => {
           </div>
 
           <div
-            // style={{ backgroundImage: `url(${item.image})` }}
+            style={{
+              backgroundImage: `url(${"https://i.pinimg.com/564x/04/82/f0/0482f0af373b59f5f4892794cf3ec21d.jpg"})`,
+            }}
             className="shadow-lg shadow-[#040c16] group container rounded-md 
               flex justify-center text-center items-center mx-auto content-div "
           >
@@ -138,7 +146,9 @@ const Work = () => {
           </div>
 
           <div
-            // style={{ backgroundImage: `url(${item.image})` }}
+            style={{
+              backgroundImage: `url(${"https://i.pinimg.com/564x/e5/e3/41/e5e341f2a439353f38c30fc1c007c96e.jpg"})`,
+            }}
             className="shadow-lg shadow-[#040c16] group container rounded-md 
               flex justify-center text-center items-center mx-auto content-div "
           >
